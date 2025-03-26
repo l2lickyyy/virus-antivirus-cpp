@@ -1,0 +1,3 @@
+C:/Users/kinop/Documents/futureShid/GitHub/virus-antivirus-cpp/out/build/x64-Debug/CMakeFiles/malware_antivirus.dir
+C:/Users/kinop/Documents/futureShid/GitHub/virus-antivirus-cpp/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/kinop/Documents/futureShid/GitHub/virus-antivirus-cpp/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
