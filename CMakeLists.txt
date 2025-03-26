@@ -6,5 +6,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 file(GLOB_RECURSE SOURCES "src/*.cpp")
 
-add_executable(malware_antivirus ${SOURCES} "src/malware/FileInfector.h"
-											"src/malware/Worm.h")
+add_executable(malware_antivirus ${SOURCES})
